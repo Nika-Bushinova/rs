@@ -1,1 +1,1 @@
-# rs
+https://NIKA-BUSHINOVA.github.io/rsschool-cv/
