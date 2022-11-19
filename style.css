@@ -67,14 +67,14 @@ color:black
  }
  .header__img{
     width: 30%;
-    padding:15px;
+    padding:15px 0px 15px 25px;
     text-align: center;
     
  }
  
  img{
     border-radius: 10%;
-    max-width: 140px;
+    max-width: 160px;
     max-height: 184px;
    border:solid 2px white
  }
