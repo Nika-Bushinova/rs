@@ -112,7 +112,7 @@ color:black
  .header__contacts li:first-of-type::before{
    position: absolute;
    content: "";
-   left:0;
+   left:-20px;
    top:0;
    width:35px;
    height:20px;
@@ -123,7 +123,7 @@ transition: all .2s ease-in-out
  .header__contacts li:nth-of-type(2)::before{
    position: absolute;
    content: "";
-   left:0;
+   left:-20px;
    top:0;
    width:30px;
    height:20px;
@@ -134,7 +134,7 @@ transition: all .2s ease-in-out
  .header__contacts li:nth-of-type(3)::before{
    position: absolute;
    content: "";
-   left:0;
+   left:-20px;
    top:0;
    width:30px;
    height:25px;
@@ -268,5 +268,6 @@ h4{padding:10px 0px 0px 11%}
    width:86px;
    padding:5px 10px;
  }
+ .info ul{margin:10px;}
 
 
