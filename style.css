@@ -134,7 +134,7 @@ transition: all .2s ease-in-out
  .header__contacts li:nth-of-type(3)::before{
    position: absolute;
    content: "";
-   left:-15px;
+   left:0px;
    top:0;
    width:30px;
    height:25px;
